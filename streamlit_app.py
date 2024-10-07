@@ -2,7 +2,7 @@ import numpy as np
 import plotly.graph_objects as go
 import streamlit as st
 
-
+st.title("Tutorentraining Mathematik")
 
 # Second plot: 2D Circle Animation
 
